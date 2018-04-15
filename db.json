@@ -1,12 +1,14 @@
 {
-"Company 1": {
+"Company 1": 
+  {
   "Sales": 1000,
   "Costs": 70,
-  "Profit": 30,
-},
-"Company 2": {
+  "Profit": 30
+  },
+"Company 2": 
+  {
   "Sales": 3000,
   "Costs": 5000,
-  "Profit": -2000,
-}
+  "Profit": -2000 
+  }
 }
